@@ -156,5 +156,5 @@ window.addEventListener("keyup", (event) => {
     clear.click();
   }
 });
-
-// thanks
+// no
+// yes
